@@ -1,0 +1,2 @@
+# mygitdinozoo
+hexo blog des
